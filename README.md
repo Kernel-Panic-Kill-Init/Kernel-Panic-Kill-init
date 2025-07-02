@@ -15,9 +15,6 @@ I believe that having a broad perspective helps me understand and protect system
 
 My goal is to grow quickly and effectively into a cybersecurity specialist with solid practical experience.  
 
-Jasne! Oto rozszerzona wersja About Me, którą możesz od razu skopiować na GitHub:
-
-
 
 **About me:**
 I'm an aspiring cybersecurity enthusiast with a broad range of IT interests, aiming to rapidly grow from zero to a professional level in penetration testing and blue team operations. I enjoy breaking down complex topics into simple parts, documenting my progress thoroughly, and sharing knowledge as if teaching myself. Driven by determination and frustration with stagnation, I’m committed to mastering cybersecurity and making a real impact.
