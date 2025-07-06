@@ -1,0 +1,14 @@
+[
+  {
+    "title_pl": "Witaj w moim blogu",
+    "title_en": "Welcome to my blog",
+    "content_pl": "To jest pierwszy wpis na blogu o cyberbezpieczeństwie!",
+    "content_en": "This is the first blog post about cybersecurity!"
+  },
+  {
+    "title_pl": "Pierwsze CTF-y",
+    "title_en": "First CTFs",
+    "content_pl": "Zacząłem od OverTheWire i TryHackMe w przeglądarce...",
+    "content_en": "Started with OverTheWire and TryHackMe in the browser..."
+  }
+]
