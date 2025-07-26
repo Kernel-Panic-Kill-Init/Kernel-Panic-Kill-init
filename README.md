@@ -1,27 +1,43 @@
+# 👋 Hi, I'm Filip – Aspiring Cybersecurity Specialist
 
-Aspiring cybersecurity professional with a wide range of interests covering Linux, networking, programming, and security.  
-I believe that having a broad perspective helps me understand and protect systems more effectively.
+I'm building my cybersecurity skills from the ground up, with a hands-on, no-excuses, guerrilla-style approach — often working straight from my phone, one commit at a time.
 
-**What I do:**  
-- Document my learning journey and hands-on projects from the ground up  
-- Analyze topics from multiple angles to gain deep understanding  
-- Experiment with tools and techniques in both offensive and defensive security  
+## 🚀 About Me
 
-**Technologies and areas:**  
-- Linux (Ubuntu, Kali)  
-- Bash scripting and automation  
-- Networking and security fundamentals  
-- Penetration testing and defense (Red & Blue team concepts)  
+I'm diving deep into cybersecurity with a broad base in Linux, networking, and scripting. I believe real skills come from real practice — not just watching, but doing.
 
-My goal is to grow quickly and effectively into a cybersecurity specialist with solid practical experience.  
+My background is unconventional, but my determination is non-negotiable. I’m using every spare moment to level up, turning frustration with stagnation into focused growth.
 
+## 🛠 What I Do
 
-**About me:**
-I'm an aspiring cybersecurity enthusiast with a broad range of IT interests, aiming to rapidly grow from zero to a professional level in penetration testing and blue team operations. I enjoy breaking down complex topics into simple parts, documenting my progress thoroughly, and sharing knowledge as if teaching myself. Driven by determination and frustration with stagnation, I’m committed to mastering cybersecurity and making a real impact.
+- Document my learning journey with notes, labs, and breakdowns
+- Analyze topics from multiple angles for deep understanding
+- Build and test offensive and defensive tools & techniques
+- Learn in the wild — on the road, offline, even from a smartphone
 
-This repository is a personal journal of my learning journey, where I keep detailed notes, hands-on projects, and resources. My goal is to build practical skills quickly and stand out in the competitive cybersecurity field. I welcome collaboration, feedback, and connecting with like-minded professionals.
+## 💡 Areas of Focus
+
+- **Linux** (Ubuntu, Kali)
+- **Scripting & Automation** (Bash)
+- **Networking & Security Fundamentals**
+- **Penetration Testing & Blue Team Concepts**
+
+## 📂 Featured Projects
+
+- [Partyzant-Repo](https://github.com/Kernel-Panic-Kill-Init/Partyzant-Repo) – A guerrilla-style cybersecurity lab, built mostly from a phone. Includes CTF writeups, payloads, tools, and more.
+
+## 🎯 Goals
+
+- Grow into a full-time cybersecurity specialist through practice
+- Build a strong freelancing portfolio with real-world skills
+- Contribute to the community by sharing everything I learn
+
+## 🤝 Let's Connect
+
+- 📧 Email: kernel.panic.kill.init@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/filip-%C5%82uka-495a71372)  
+- 🐙 [GitHub](https://github.com/Kernel-Panic-Kill-Init)
 
 ---
 
-📫 Contact: kernel.panic.kill.init@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/filip-%C5%82uka-495a71372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+> _“Start where you are. Use what you have. Do what you can.”_ – That’s the mindset behind everything I build here.
